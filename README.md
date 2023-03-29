@@ -5,12 +5,12 @@
 ## Assignment 2 - One Requirement, One Map on SDG #11  
 ## REPORT
 
-Team Members:
+### Team Members:
 
- 21967503 - Sıla Gerçek
- 21967282 - Serkan Albayır
- 21967646 - Aybüke Küçük
- 21967569 - Oğuzhan Gürcan
+ #### 21967503 - Sıla Gerçek
+ #### 21967282 - Serkan Albayır
+ #### 21967646 - Aybüke Küçük
+ #### 21967569 - Oğuzhan Gürcan
 
 ## 1) A case study (region of interest): 
 ### Determination of Areas for the Container Houses Neighbourhoods To Mitigate the Effects of the 6 February Earthquake
