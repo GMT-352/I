@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/120742302/228538613-fe90ac95-443e-4efc-be87-84007dc29b19.png)
 
-# GMT352 Geographic Information Systems 
+# -GMT352- Geographic Information Systems 
 
 ## Assignment 2 - One Requirement, One Map on SDG #11  REPORT
 
