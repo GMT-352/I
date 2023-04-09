@@ -55,5 +55,7 @@ To improve the living conditions and increase the resilience of earthquake victi
 * Map of Sıla Gerçek:
 ![SILA_GERÇEK_EATHQUAKE_MALATYA_MAP](https://user-images.githubusercontent.com/120742302/228562845-f1a9af0f-b2fb-4ba5-9e59-5d8f1e7af8d1.png)
 
-
+* Map of Serkan Albayır:
+ In this map study, the debris density of 885 meters in diameter for 4 points determined in Hatay and whether there is a suitable area for container installation were analyzed. The number of collapsed and demolished buildings was analyzed within the determined areas.
+ ![SERKAN ALBAYIR CONTAINER CITIES IN HATAY]![container_layout_son](https://user-images.githubusercontent.com/115184884/230793176-eb037257-0f82-4754-8c92-f9f89b9747fe.png)
 
